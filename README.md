@@ -1,4 +1,4 @@
-# Beats-By-Dre-Data-Analysis-Extern
+# Beats-By-Dre-Data-Analytics-Extern
 <br>
 <b>Author: Sadhguna Varshinie</b>
 <br>
