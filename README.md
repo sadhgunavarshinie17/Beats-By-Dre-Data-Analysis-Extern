@@ -22,5 +22,5 @@ Proficiency in data visualization tools to present insights
 <br>
 <b>Tools used:</b>
 <br>
-Python, OxyLabs API, Amazon reviews, YouTube videos and tutorials, W#Schools, Pandas library, Numpy, Matplotlib, Seaborn,
+Python, OxyLabs API, Amazon reviews, YouTube videos and tutorials, W3Schools, Pandas library, Numpy, Matplotlib, Seaborn,
 TextBlob, WordCloud, Scikit-learn, GoogleColab, Consumer reviews dataset
